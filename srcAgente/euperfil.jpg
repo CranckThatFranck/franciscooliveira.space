@@ -1,0 +1,6 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" fill="#E5E7EB"/>
+  <circle cx="256" cy="210" r="110" fill="#D1D5DB"/>
+  <rect x="110" y="340" width="292" height="130" rx="60" fill="#111827"/>
+  <text x="256" y="486" fill="#111827" text-anchor="middle" font-size="38" font-family="Inter, sans-serif">Francisco Oliveira</text>
+</svg>
