@@ -31,5 +31,5 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./dist/
-          server-dir: ./public_html/
+          server-dir: ./domains/franciscooliveira.space/public_html/
           dangerous-clean-slate: false # Impede que ele apague arquivos aleatórios do servidor
