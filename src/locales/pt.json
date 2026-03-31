@@ -1,0 +1,94 @@
+{
+  "nav": {
+    "about": "Sobre",
+    "ecosystem": "Ecossistema",
+    "experience": "Experiência",
+    "contact": "Contato"
+  },
+  "hero": {
+    "status": "Disponível para novos projetos",
+    "title": "Francisco Oliveira",
+    "subtitle": "Engenheiro de Software & Arquiteto de Soluções",
+    "description": "Especialista em desenvolvimento Full-Stack, Java Spring Boot, Kotlin, React e infraestrutura DevOps.",
+    "ctaEcosystem": "Ver Ecossistema",
+    "ctaContact": "Contato"
+  },
+  "about": {
+    "eyebrow": "O Profissional",
+    "title": "Sobre Mim",
+    "description": "Especialista em comunicação técnica 100% em inglês, desenvolvimento de MVPs escaláveis e forte base em infraestrutura.",
+    "role": "Engenheiro de Software"
+  },
+  "skills": {
+    "java": "Java",
+    "spring": "Spring Boot",
+    "react": "React",
+    "kotlin": "Kotlin",
+    "postgres": "PostgreSQL",
+    "aws": "AWS",
+    "docker": "Docker"
+  },
+  "ecosystem": {
+    "eyebrow": "Os Projetos",
+    "title": "O Ecossistema Gaia",
+    "negocioPocket": "Negócio de Bolso",
+    "negocioDesc": "App nativo Android para gestão de vendas. Destaque para arquitetura backend robusta e monetização.",
+    "suportePocket": "Suporte de Bolso",
+    "suporteDesc": "Helpdesk em tempo real via arquitetura WebSocket escalável.",
+    "gaiaWorks": "Gaia Works",
+    "gaiaDesc": "Estúdio de desenvolvimento indie e system design."
+  },
+  "experience": {
+    "eyebrow": "Carreira",
+    "title": "Experiência Profissional",
+    "wex": "WEX",
+    "wexRole": "Engenheiro de Software Júnior",
+    "wexDate": "Set 2025 - Presente",
+    "wexDesc": [
+      "Desenvolvimento em Full-Stack utilizando Java (Spring Boot), React e Python.",
+      "Manutenção e monitoramento de infraestrutura confiável na nuvem AWS.",
+      "Foco na arquitetura limpa e alta qualidade de escalabilidade."
+    ],
+    "jtech": "Jtech",
+    "jtechRole": "Analista de TI",
+    "jtechDate": "Dez 2024 - Set 2025",
+    "jtechDesc": [
+      "Otimização em consultas complexas em PostgreSQL com uso de CTEs.",
+      "Atuação profunda no monitoramento de logs e root cause analysis.",
+      "Integrações de banco de dados ágeis visando alta performance."
+    ],
+    "serverdoin": "ServerDo.in",
+    "serverRole": "Analista de Infraestrutura",
+    "serverDate": "Jul 2024 - Out 2024",
+    "serverDesc": [
+      "Suporte, administração e supervisão de servidores cPanel/WHM.",
+      "Provisionamento e escalonamento na nuvem da AWS EC2.",
+      "Mitigação ativa contra incidentes e ataques DDoS complexos."
+    ],
+    "softplan": "Softplan",
+    "softplanRole": "Analista de TI",
+    "softplanDate": "Fev 2021 - Jul 2023",
+    "softplanDesc": [
+      "Prestação de Suporte de Nível 2 especializado ao SAJ (Tribunal de Justiça).",
+      "Investigação direta nas APIs e bases do ecossistema judiciário.",
+      "Esforço conjunto com desenvolvedores para garantir resoluções permanentes."
+    ],
+    "otherHeader": "Outras Experiências",
+    "otherDesc": "Também atuou previamente com SCC4, WeDo e NEXTAR no decorrer do período profissional.",
+    "academic": "Formação Acadêmica",
+    "estacio": "Estácio - Eng. de Software",
+    "unopar": "UNOPAR",
+    "focus": "Focus",
+    "anhembi": "Anhembi Morumbi"
+  },
+  "contact": {
+    "title": "Entre em contato",
+    "email": "contato@franciscooliveira.space",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "formName": "Nome",
+    "formEmail": "E-mail",
+    "formMessage": "Mensagem",
+    "formSend": "Enviar Mensagem"
+  }
+}

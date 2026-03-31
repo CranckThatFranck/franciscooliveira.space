@@ -1,0 +1,94 @@
+{
+  "nav": {
+    "about": "About",
+    "ecosystem": "Ecosystem",
+    "experience": "Experience",
+    "contact": "Contact"
+  },
+  "hero": {
+    "status": "Available for new projects",
+    "title": "Francisco Oliveira",
+    "subtitle": "Software Engineer & Solutions Architect",
+    "description": "Full-Stack Development, Java Spring Boot, Kotlin, React, and DevOps Architecture Specialist.",
+    "ctaEcosystem": "View Ecosystem",
+    "ctaContact": "Get in Touch"
+  },
+  "about": {
+    "eyebrow": "The Professional",
+    "title": "About Me",
+    "description": "Specialist in scalable MVP development, fluent technical communication in English, and strong infrastructure foundation.",
+    "role": "Software Engineer"
+  },
+  "skills": {
+    "java": "Java",
+    "spring": "Spring Boot",
+    "react": "React",
+    "kotlin": "Kotlin",
+    "postgres": "PostgreSQL",
+    "aws": "AWS",
+    "docker": "Docker"
+  },
+  "ecosystem": {
+    "eyebrow": "The Projects",
+    "title": "The Gaia Ecosystem",
+    "negocioPocket": "Negócio de Bolso",
+    "negocioDesc": "Native Android app for sales management. Robust backend architecture and monetization.",
+    "suportePocket": "Suporte de Bolso",
+    "suporteDesc": "Real-time helpdesk scalable architecture via WebSocket.",
+    "gaiaWorks": "Gaia Works",
+    "gaiaDesc": "Indie development and system design studio."
+  },
+  "experience": {
+    "eyebrow": "Career",
+    "title": "Professional Experience",
+    "wex": "WEX",
+    "wexRole": "Junior Software Engineer",
+    "wexDate": "Sep 2025 - Present",
+    "wexDesc": [
+      "Development using Full-Stack Java (Spring Boot), React, and Python.",
+      "Deployment tracking and maintaining reliable cloud structure on AWS.",
+      "Ensuring clean architecture principles and software quality."
+    ],
+    "jtech": "Jtech",
+    "jtechRole": "IT Analyst",
+    "jtechDate": "Dec 2024 - Sep 2025",
+    "jtechDesc": [
+      "Optimized complex relational queries using PostgreSQL and CTEs.",
+      "Acted in comprehensive log monitoring and root cause analysis.",
+      "Assured code performance and optimized database integration structures."
+    ],
+    "serverdoin": "ServerDo.in",
+    "serverRole": "Infrastructure Analyst",
+    "serverDate": "Jul 2024 - Oct 2024",
+    "serverDesc": [
+      "Maintained and supervised cPanel/WHM structures and servers.",
+      "Provisioning and scaling EC2 clusters on AWS cloud infrastructure.",
+      "Advanced traffic filtering and active DDoS mitigation procedures."
+    ],
+    "softplan": "Softplan",
+    "softplanRole": "IT Analyst",
+    "softplanDate": "Feb 2021 - Jul 2023",
+    "softplanDesc": [
+      "Provided Level 2 Technical Support to SAJ (Court of Justice Systems).",
+      "Diagnosed incidents regarding core APIs and legal tracking suites.",
+      "Collaborated extensively with dev teams for permanent bug fixes."
+    ],
+    "otherHeader": "Other Experiences",
+    "otherDesc": "Also worked with SCC4, WeDo, and NEXTAR throughout the career.",
+    "academic": "Academic Background",
+    "estacio": "Estácio - Software Engineering",
+    "unopar": "UNOPAR",
+    "focus": "Focus",
+    "anhembi": "Anhembi Morumbi"
+  },
+  "contact": {
+    "title": "Get in touch",
+    "email": "contato@franciscooliveira.space",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "formName": "Name",
+    "formEmail": "Email",
+    "formMessage": "Message",
+    "formSend": "Send Message"
+  }
+}
